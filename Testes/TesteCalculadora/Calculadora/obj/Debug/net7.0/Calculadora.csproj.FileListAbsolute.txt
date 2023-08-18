@@ -1,0 +1,15 @@
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\bin\Debug\net7.0\Calculadora.exe
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\bin\Debug\net7.0\Calculadora.dll
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.dll
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+E:\Repositorio\Estudo\DIO\desafios-DIO\Testes\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
